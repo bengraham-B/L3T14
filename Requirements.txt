@@ -14,9 +14,6 @@ Functional Requirements
     (6) Option to send their schedule as an email to themsevles and other submitted email addresses.
 
 
-
-
-
 Non-Functional Requirements
 
 (a) Usability:
@@ -25,3 +22,11 @@ Non-Functional Requirements
     The website will also contain a online help page, which contains a form for users to submit issues.
     The will also be a documentaion page which explains to the user how to use the website and explains the 
     all the functionality it offers.
+
+(b) Reliability:
+    All functions which interact with the server and the client will be placed in a try catch block 
+    which will be able to provide users and developers with accurate error messages.
+
+(c) Preformace:
+
+(d) Secruity:
