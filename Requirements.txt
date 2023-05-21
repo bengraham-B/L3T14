@@ -28,5 +28,20 @@ Non-Functional Requirements
     which will be able to provide users and developers with accurate error messages.
 
 (c) Preformace:
+    To ensure that the website offers user optimal preformance, we will ensure that unneccessary files and code to
+    reduce the size of the website which will increase the overall speed of the website. JWT will be used and 
+    will be set to expire in one month which will allow users to effortlessly login into the website without 
+    having togo through the login process each time. We will use the fastest hosting servce to ensure that 
+    our users inteacts with our website are quickly hanldled, further increasing the websites preformance [1].
 
 (d) Secruity:
+    To ensure that users can login and signup safely, JWT will be used and bcrypt to hash users password with a 
+    secret word of a minimum length of 12 characters containg numbers, capital and lowercase letters as well 
+    as symbols and numbers. Helmet.js will be used add secruity from threats such as cross-site scripting and
+    click jacking attacks [2].
+
+
+Recsources Used:
+[1] https://webflow.com/blog/how-to-boost-your-sites-performance?utm_source=google&utm_medium=search&utm_campaign=Google-Search-Dynamic-Search-Ads-Core-BBSS&utm_term=aud-520743546121:dsa-45211625058___491754501325___ss_paid-bb&gclid=CjwKCAjwgqejBhBAEiwAuWHioMIRFvXbdZNvvRUL63qCtJYv3luGuW5Bi_LGat5FQ4Cg1fo2f8yWyRoCTKAQAvD_BwE
+
+[2] https://blog.logrocket.com/using-helmet-node-js-secure-application/#:~:text=js!-,What%20is%20Helmet%3F,comply%20with%20web%20security%20standards
