@@ -1,0 +1,27 @@
+Functional Requirements 
+
+(a) The expected users of the Software:
+    (1) Professionals 
+    (2) Students planning studying 
+    (3) People planning their daily activities
+
+(b) The approach (Functions):
+    (1) Proving a grid view of the days in each month.
+    (2) Allow the user to select a day and begin adding tasks.
+    (3) The user will be able to edit and delete tasks.
+    (4) A reminder will be sent to the user, they can set the freqeuncy of when they recevie the reminders.
+    (5) The user will be able to assign colours to the tasks, depending on their uergency or user`s choice.
+    (6) Option to send their schedule as an email to themsevles and other submitted email addresses.
+
+
+
+
+
+Non-Functional Requirements
+
+(a) Usability:
+    The UI will be simple and consist of the 4 basic colours, white background, black text, blue as the secondary
+    colour and orange for things which should stand out.
+    The website will also contain a online help page, which contains a form for users to submit issues.
+    The will also be a documentaion page which explains to the user how to use the website and explains the 
+    all the functionality it offers.
