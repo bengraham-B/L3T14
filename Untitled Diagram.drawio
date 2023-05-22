@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T14:35:43.454Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="0MipwQg3tvD6Kl1S_T3K" version="21.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-22T14:37:17.122Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="_EJs2paB6r1VOGvgxT_M" version="21.2.2" type="github">
   <diagram name="Page-1" id="fN_kPUefRSK5LdBiKVOg">
     <mxGraphModel dx="2937" dy="1979" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -79,7 +79,7 @@
         <mxCell id="8TrDZY1N4ZAok5E6qu1y-46" value="" style="whiteSpace=wrap;html=1;aspect=fixed;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" vertex="1" parent="1">
           <mxGeometry x="1490" y="150" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="8TrDZY1N4ZAok5E6qu1y-52" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;3. Once The user Logs in they will be directed to this page. This page shows the days of the month as an object, to which the user can select and add tasks. It will also show all the tasks set for each day.&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="8TrDZY1N4ZAok5E6qu1y-52" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;3. When a user click on a month they will be directed to this page which shows them all the days in that month.&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1150" y="-230" width="370" height="220" as="geometry" />
         </mxCell>
         <mxCell id="8TrDZY1N4ZAok5E6qu1y-53" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;1. If the user is not already authenticated it will show them this page which will allow them to either sign up or login.&lt;/font&gt;" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -335,8 +335,13 @@
         <mxCell id="8TrDZY1N4ZAok5E6qu1y-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;movable=0;resizable=0;rotatable=0;deletable=0;editable=0;locked=1;connectable=0;" edge="1" parent="8TrDZY1N4ZAok5E6qu1y-127" source="WnF0JKDLOTkhBMKJS6SP-1" target="WnF0JKDLOTkhBMKJS6SP-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="8TrDZY1N4ZAok5E6qu1y-128" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="8TrDZY1N4ZAok5E6qu1y-128" value="" style="group;fontColor=#FF8000;" vertex="1" connectable="0" parent="1">
           <mxGeometry y="10" width="665" height="558.25" as="geometry" />
+        </mxCell>
+        <mxCell id="8TrDZY1N4ZAok5E6qu1y-173" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="8TrDZY1N4ZAok5E6qu1y-128" source="8TrDZY1N4ZAok5E6qu1y-129">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040.0000000000005" y="279.75" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="8TrDZY1N4ZAok5E6qu1y-129" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;movable=1;resizable=1;rotatable=1;deletable=1;editable=1;locked=0;connectable=1;" vertex="1" parent="8TrDZY1N4ZAok5E6qu1y-128">
           <mxGeometry x="41.75" width="558.25" height="558.25" as="geometry" />
@@ -371,9 +376,6 @@
         <mxCell id="8TrDZY1N4ZAok5E6qu1y-151" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8TrDZY1N4ZAok5E6qu1y-128">
           <mxGeometry x="71.28637059724349" y="210" width="122.20520673813166" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="8TrDZY1N4ZAok5E6qu1y-152" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8TrDZY1N4ZAok5E6qu1y-128">
-          <mxGeometry x="260.19525267993873" y="210" width="122.20520673813166" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="8TrDZY1N4ZAok5E6qu1y-153" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8TrDZY1N4ZAok5E6qu1y-128">
           <mxGeometry x="427.71822358346094" y="210" width="122.20520673813166" height="60" as="geometry" />
         </mxCell>
@@ -394,6 +396,9 @@
         </mxCell>
         <mxCell id="8TrDZY1N4ZAok5E6qu1y-145" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8TrDZY1N4ZAok5E6qu1y-128">
           <mxGeometry x="81.47013782542115" y="390" width="122.20520673813166" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8TrDZY1N4ZAok5E6qu1y-152" value="" style="rounded=0;whiteSpace=wrap;html=1;labelBorderColor=#FF8000;labelBackgroundColor=none;" vertex="1" parent="8TrDZY1N4ZAok5E6qu1y-128">
+          <mxGeometry x="260.19525267993873" y="210" width="122.20520673813166" height="60" as="geometry" />
         </mxCell>
         <mxCell id="8TrDZY1N4ZAok5E6qu1y-141" value="&lt;h1&gt;Home Page&lt;/h1&gt;&lt;div&gt;This page shows all the months of the current year.&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="-200" width="190" height="190" as="geometry" />
