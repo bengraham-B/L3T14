@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T14:27:29.346Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="SyjmciGQ4jOnM2NZn9B1" version="21.2.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-22T14:27:58.673Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="MWmxwhKJ_V6Niypvti3a" version="21.2.2" type="github">
   <diagram name="Page-1" id="fN_kPUefRSK5LdBiKVOg">
     <mxGraphModel dx="830" dy="1732" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -184,34 +184,13 @@
         <mxCell id="8TrDZY1N4ZAok5E6qu1y-90" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1035" y="570" width="560" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="8TrDZY1N4ZAok5E6qu1y-95" value="Contact&amp;nbsp;&lt;br&gt;Links" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="605" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8TrDZY1N4ZAok5E6qu1y-96" value="Links to sections&lt;br&gt;of the Documentation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1186" y="605" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8TrDZY1N4ZAok5E6qu1y-97" value="Privacy Statement&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="680" width="150" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="8TrDZY1N4ZAok5E6qu1y-98" value="Links to sections&lt;br&gt;of the Documentation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1320" y="605" width="110" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="8TrDZY1N4ZAok5E6qu1y-99" value="Social Media Icons" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1050" y="680" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="8TrDZY1N4ZAok5E6qu1y-100" value="Link to privacy Policy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1455" y="680" width="110" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="8TrDZY1N4ZAok5E6qu1y-101" value="About the website section" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1455" y="605" width="110" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="8TrDZY1N4ZAok5E6qu1y-113" value="" style="rounded=0;whiteSpace=wrap;html=1;container=1;" vertex="1" parent="1">
           <mxGeometry x="1921" y="564.5" width="560" height="210" as="geometry">
             <mxRectangle x="1921" y="564.5" width="50" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8TrDZY1N4ZAok5E6qu1y-114" value="" style="group" vertex="1" connectable="0" parent="8TrDZY1N4ZAok5E6qu1y-113">
-          <mxGeometry x="14" y="20.5" width="515" height="165" as="geometry" />
+        <mxCell id="8TrDZY1N4ZAok5E6qu1y-114" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1931" y="585" width="515" height="165" as="geometry" />
         </mxCell>
         <mxCell id="8TrDZY1N4ZAok5E6qu1y-105" value="Contact&amp;nbsp;&lt;br&gt;Links" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8TrDZY1N4ZAok5E6qu1y-114">
           <mxGeometry width="110" height="60" as="geometry" />
@@ -239,8 +218,32 @@
             <mxRectangle x="200" y="90.5" width="140" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8TrDZY1N4ZAok5E6qu1y-103" value="Website Logo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1240" y="730" width="150" height="40" as="geometry" />
+        <mxCell id="8TrDZY1N4ZAok5E6qu1y-115" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="1035" y="550" width="560" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="8TrDZY1N4ZAok5E6qu1y-95" value="Contact&amp;nbsp;&lt;br&gt;Links" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8TrDZY1N4ZAok5E6qu1y-115">
+          <mxGeometry x="15" y="35" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8TrDZY1N4ZAok5E6qu1y-96" value="Links to sections&lt;br&gt;of the Documentation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8TrDZY1N4ZAok5E6qu1y-115">
+          <mxGeometry x="151" y="35" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8TrDZY1N4ZAok5E6qu1y-97" value="Privacy Statement&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8TrDZY1N4ZAok5E6qu1y-115">
+          <mxGeometry x="205" y="110" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8TrDZY1N4ZAok5E6qu1y-98" value="Links to sections&lt;br&gt;of the Documentation" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8TrDZY1N4ZAok5E6qu1y-115">
+          <mxGeometry x="285" y="35" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8TrDZY1N4ZAok5E6qu1y-99" value="Social Media Icons" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8TrDZY1N4ZAok5E6qu1y-115">
+          <mxGeometry x="15" y="110" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8TrDZY1N4ZAok5E6qu1y-100" value="Link to privacy Policy" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8TrDZY1N4ZAok5E6qu1y-115">
+          <mxGeometry x="420" y="110" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8TrDZY1N4ZAok5E6qu1y-101" value="About the website section" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8TrDZY1N4ZAok5E6qu1y-115">
+          <mxGeometry x="420" y="35" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="8TrDZY1N4ZAok5E6qu1y-103" value="Website Logo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="8TrDZY1N4ZAok5E6qu1y-115">
+          <mxGeometry x="205" y="160" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
